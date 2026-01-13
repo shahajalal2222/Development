@@ -3,7 +3,7 @@ import Title from "../components/Title";
 
 const Cart = () => {
   return (
-    <Title>About Page</Title>
+    <Title>Cart Page</Title>
   );
 };
 

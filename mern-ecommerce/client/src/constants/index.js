@@ -18,3 +18,9 @@ export const headerNavigation = [
         link: "/orders",
     },
 ];
+const BannerData=[
+ {
+    title : "Top selling smartphone and accesories",
+    
+ }
+]

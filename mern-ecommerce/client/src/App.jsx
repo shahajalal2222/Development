@@ -1,10 +1,16 @@
+import Banner from "./components/Banner"
 import Header from "./components/Header"
 import Title from "./components/Title"
 
 function App() {
   return (
     <main>
-      <Title>Home Page</Title>
+      <Banner/>
+      {/*  Sale  */}
+      {/* New Arival    */}
+      { /* Best Sellers  */ }
+      {/* Product of the Year  */}
+      {/* Special Offers */}
     </main>
   )
 }
