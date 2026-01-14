@@ -9,7 +9,7 @@ import { headerNavigation } from '../constants';
 import { Link, NavLink } from 'react-router-dom';
 const Header = () => {
   return (
-    <div className="border-b border-slate-300">
+    <div className="border-b border-slate-300 sticky top-0 z-50">
       <Container className="py-7 flex items-center gap-x-3 md:gap-x-7 justify-between">
         <Link to={'/'}>
         <img src={logo} alt="logo" className="w-20" />
