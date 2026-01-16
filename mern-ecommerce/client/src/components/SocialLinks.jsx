@@ -35,7 +35,7 @@ const SocialLinks = () => {
         (<a key={index} href={item?.href} target='blank'
         className="border border-white/20 inline-flex
         p-2 rounded-full hover:text-white hover:border-white
-        duration-300 cursor-pointer">{item?.icon}</a>))}
+        duration-300 cursor-p-2">{item?.icon}</a>))}
     </div>
   );
 };
